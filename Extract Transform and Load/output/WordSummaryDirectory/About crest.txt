@@ -1,0 +1,101 @@
+All words Summary----------------------------------------------- START
+
+WORD												COUNT
+
+------------------------------------------------------------------
+some												1
+largest												1
+9001												1
+worlds												1
+iso												1
+software												1
+invaluable												1
+american												1
+our												1
+research												1
+we												1
+that												1
+into												1
+and												5
+of												1
+have												1
+working												1
+publishers												1
+certified												1
+company												1
+crest												1
+offers												1
+bpo												1
+gaining												1
+delivery												1
+development												1
+in												1
+european												1
+ites												1
+is												1
+it												1
+services												1
+analysis												1
+an												1
+stm												1
+offshore												1
+the												2
+marketing												1
+with												1
+insight												1
+markets												1
+system												1
+perfected												1
+
+All words Summary----------------------------------------------- END
+
+
+
+Unique words Summary----------------------------------------------- START
+
+UNIQUE WORDS						
+
+------------------------------------------------------------------
+some
+largest
+9001
+worlds
+iso
+software
+invaluable
+american
+our
+research
+we
+that
+into
+of
+have
+working
+publishers
+certified
+company
+crest
+offers
+bpo
+gaining
+delivery
+development
+in
+european
+ites
+is
+it
+services
+analysis
+an
+stm
+offshore
+marketing
+with
+insight
+markets
+system
+perfected
+
+Unique words Summary ----------------------------------------------- END

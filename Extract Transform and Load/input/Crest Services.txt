@@ -1,0 +1,4 @@
+You may have the best programmers in Java, SAP, MS Tech a
+nd Documentum, but if you dont understand the business 
+that you are developing solutions for, your technology product will never reach its potential.
+

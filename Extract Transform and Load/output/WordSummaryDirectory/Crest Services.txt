@@ -1,0 +1,79 @@
+All words Summary----------------------------------------------- START
+
+WORD												COUNT
+
+------------------------------------------------------------------
+but												1
+reach												1
+for												1
+developing												1
+best												1
+your												1
+that												1
+java												1
+are												1
+have												1
+programmers												1
+if												1
+potential												1
+you												3
+documentum												1
+tech												1
+a												1
+product												1
+sap												1
+may												1
+business												1
+in												1
+will												1
+ms												1
+solutions												1
+understand												1
+its												1
+technology												1
+the												2
+never												1
+nd												1
+dont												1
+
+All words Summary----------------------------------------------- END
+
+
+
+Unique words Summary----------------------------------------------- START
+
+UNIQUE WORDS						
+
+------------------------------------------------------------------
+but
+reach
+for
+developing
+best
+your
+that
+java
+are
+have
+programmers
+if
+potential
+documentum
+tech
+a
+product
+sap
+may
+business
+in
+will
+ms
+solutions
+understand
+its
+technology
+never
+nd
+dont
+
+Unique words Summary ----------------------------------------------- END
